@@ -1,0 +1,92 @@
+position,name,next,type,orbit,group,purchase,rent,fuel
+0,earth,1,planet,,green,,-500,
+1,well,2,,,,,,
+2,moon,3,moon,,green,225,440,20
+3,solar space dock,4,space dock,,white,250,1125,10
+4,mercury,5,planet,,gold,375,1035,25
+5,federation station I,6,federation station,,,,,
+6,space,7,,,,,,
+7,space,8,,,,,,
+8,IO,9,moon,jupiter,orange,230,110,105
+9,jupiter space dock,10,space dock,jupiter,white,150,175,10
+10,space,11,,jupiter,,,,
+11,elara,12,moon,jupiter,orange,65,105,10
+12,callisto,13,moon,jupiter,orange,260,125,110
+13,federation station II,14,federation station,jupiter,,,-200,
+14,thebe,15,moon,jupiter,orange,65,105,10
+15,space,16,moon,jupiter,,,,
+16,metis,17,moon,jupiter,orange,50,125,10
+17,ganymede,18;23,moon,jupiter,orange,260,125,110
+18,jupiter research lab,19,research lab,jupiter,grey,250,135,
+19,himalia,20,moon,jupiter,orange,85,1045,10
+20,europa,21,moon,jupiter,orange,220,105,105
+21,amalthea,22,moon,jupiter,orange,85,1045,10
+22,adrastea,8,moon,jupiter,orange,45,105,10
+23,sinope,24,moon,,orange,45,110,10
+24,well,25,,,,,,
+25,well,26,,,,,,
+26,well,27,,,,,,
+27,well,28,,,,,,
+28,federation station III,29,federation station,,,,-600,
+29,space,30,,,,,,
+30,miranda,31,moon,uranus,turquoise,120,1140,15
+31,uranus space dock,32,space dock,uranus,white,175,225,10
+32,umbriel,33,moon,uranus,turquoise,160,110,15
+33,oberon,34,moon,uranus,turquoise,175,125,15
+34,puck,35,moon,uranus,turquoise,80,110,10
+35,uranus research lab,36,research lab,uranus,grey,325,125,
+36,space,37,,uranus,,,,
+37,ariel,38;40,moon,uranus,turquoise,160,110,15
+38,federation station IV,39,federation station,uranus,,,,
+39,titania,30,moon,uranus,turquoise,175,125,15
+40,well,41,,,,,,
+41,well,42,,,,,,
+42,well,43,,,,,,
+43,pluto,44,moon,,pink,325,1570,20
+44,charon,45,planet,,pink,160,1185,20
+45,space,46,,,,,,
+46,federation station V,47,federation station,,,,-400,
+47,space,48,,,,,,
+48,space,49,,,,,,
+49,phobos,50,moon,,red,45,115,10
+50,mars,51,planet,,red,295,1040,20
+51,deimos,52,moon,,red,35,250,10
+52,space,53,,,,,,
+53,venus research lab,54,research lab,,grey,275,115,
+54,venus,55,planet,,purple,475,1400,25
+55,well,56,,,,,,
+56,phoebe,57,moon,,yellow,90,1005,10
+57,mimas,58,moon,saturn,yellow,110,1220,10
+58,saturn space dock,59,space dock,saturn,white,200,110,10
+59,dione,60,moon,saturn,yellow,150,1115,15
+60,space,61,,saturn,,,,
+61,iapetus,62,moon,saturn,yellow,170,1220,15
+62,rhea,63,moon,saturn,yellow,175,1240,15
+63,tethys,64,moon,saturn,yellow,150,1095,15
+64,federation station VI,65,federation station,saturn,,,-250,
+65,janus,66,moon,saturn,yellow,85,105,10
+66,enceladus,67,moon,saturn,yellow,120,1325,10
+67,saturn research lab,68,research lab,saturn,grey,250,105,
+68,hyperion,69;71,moon,saturn,yellow,95,1055,10
+69,titan,70,moon,saturn,yellow,260,1200,105
+70,federation station VII,57,federation station,saturn,,,-350,
+71,well,72,,,,,,
+72,well,73,,,,,,
+73,well,74,,,,,,
+74,well,75,,,,,,
+75,federation station VIII,76,federation station,,,,-500,
+76,space,77,,,,,,
+77,nereid,78,moon,neptune,space,110,190,15
+78,space,79,,neptune,,,,
+79,neptune space dock,80,,neptune,white,225,130,10
+80,space,81,,neptune,,,,
+81,neptune research lab,82,research lab,neptune,grey,350,1015,
+82,space,83,,neptune,,,,
+83,triton,84,moon,neptune,space,230,1695,20
+84,federation station IX,85,federation station,neptune,,,-300,
+85,space,86;87,,neptune,,,,
+86,space,77,,neptune,,,,
+87,well,88,,,,,,
+88,well,89,,,,,,
+89,well,90,,,,,,
+90,earth research lab,0,research lab,,grey,400,1270,
